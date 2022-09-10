@@ -1,5 +1,5 @@
 services:
-  wurger2:
+  wurgias:
     build: .
     shm_size: 2.6gb
     ports:
